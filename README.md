@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏼, I'm Cyprien Dautrevaux</h1>
+<h1 align="center">Hello there, 👋🏼, I'm Cyprien Dautrevaux</h1>
 <h3 align="center">A really passionate Computational Neuroscience student</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cypriendtr&show_icons=true&locale=en" alt="cypriendtr" /></p>
 
