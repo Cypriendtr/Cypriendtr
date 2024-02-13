@@ -3,7 +3,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cypriendtr&show_icons=true&locale=en" alt="cypriendtr" /></p>
 
 
-- 🔭 I’m currently working on **Bayesian inference of effective connectivity**
+- 🔬 I’m currently working on **Bayesian inference of effective connectivity**
 
 - 🧠 I’m currently learning **Bayesian inference and Web developpement**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Neurosciences**
 
-- 📫 How to reach me **cyprien.dautrevaux@gmail.com**
+- ✉️ How to reach me **cyprien.dautrevaux@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/cyprien-dautrevaux-7a5911168/](https://www.linkedin.com/in/cyprien-dautrevaux-7a5911168/)
 
