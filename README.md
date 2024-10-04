@@ -7,7 +7,7 @@
 
 - 🧠 I’m currently learning **Bayesian inference and Web developpement**
 
-- 💻 I’m developping [Neuronal modelisation website](https://neuronapp.fr)
+- 💻 I’m developping [Neuronal modelisation website](http://neuroneapp.github.io)
 
 - 💬 Ask me about **Python, Neurosciences**
 
